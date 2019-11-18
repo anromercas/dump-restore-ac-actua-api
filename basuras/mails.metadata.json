@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"basuras.mails"},{"v":1,"unique":true,"key":{"nombreContenedor":1},"name":"nombreContenedor_1","ns":"basuras.mails","background":true}]}
