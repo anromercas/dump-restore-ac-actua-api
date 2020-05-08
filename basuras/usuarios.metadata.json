@@ -1,1 +1,1 @@
-{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"basuras.usuarios"},{"v":1,"unique":true,"key":{"email":1},"name":"email_1","ns":"basuras.usuarios","background":true}]}
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"basuras.usuarios"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"basuras.usuarios","background":true}],"uuid":"060e0f12c3ac430b9dbb861b9a2b25c0"}

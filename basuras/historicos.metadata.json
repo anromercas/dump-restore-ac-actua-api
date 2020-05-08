@@ -1,1 +1,1 @@
-{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"basuras.historicos"}]}
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"basuras.historicos"}],"uuid":"36e101a89a3c46ea9aa5f04411de7d9c"}
